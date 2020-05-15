@@ -1,3 +1,3 @@
 # README
 
-new stuff here
+my first test app for Ruby class
